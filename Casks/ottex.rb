@@ -1,6 +1,6 @@
 cask "ottex" do
-  version "1.3.5"
-  sha256 "6b946aebfd872d91c1ea331a08cee9f849ac56f6e92a426567ca660feb0f0e1b"
+  version "1.3.6"
+  sha256 "7986e79cf87edf1105b3eef9bca18c3213fea306484b26c258b7f7e402874c1d"
 
   url "https://app-releases.ottex.ai/Ottex-#{version}.zip"
   name "Ottex"
@@ -27,4 +27,3 @@ cask "ottex" do
     "~/Library/Saved Application State/com.ottex.nanoapp.savedState",
   ]
 end
-
