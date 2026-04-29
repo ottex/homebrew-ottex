@@ -12,7 +12,6 @@ cask "ottex" do
     strategy :sparkle
   end
 
-  auto_updates true
   depends_on macos: ">= :sequoia"
 
   app "Ottex.app"
