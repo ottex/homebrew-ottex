@@ -1,6 +1,6 @@
 cask "ottex" do
-  version "1.4.0"
-  sha256 "f9a7c5e7ba736962368612236afcbdd8e1162475390bbb8c84afe41c8f000089"
+  version "1.4.1"
+  sha256 "7370d3ac32f80395c8b33d06ed938aa91b9a22e12af2d50622fe21393b5ab567"
 
   url "https://app-releases.ottex.ai/Ottex-#{version}.zip"
   name "Ottex"
